@@ -1,0 +1,6 @@
+[submodule "Final Project/RAFT"]
+	path = Final Project/RAFT
+	url = https://github.com/princeton-vl/RAFT.git
+[submodule "Final Project/yolov7-segmentation"]
+	path = Final Project/yolov7-segmentation
+	url = https://github.com/RizwanMunawar/yolov7-segmentation.git
